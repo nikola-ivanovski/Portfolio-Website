@@ -1,3 +1,2 @@
-# Nikola Ivanovski
-
-This is my portfolio website
+# NI-s-Portfolio-Website
+ my portfolio website
